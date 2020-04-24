@@ -6,7 +6,7 @@ public class Demo {
 		{
 			System.out.println("Welcome to git maven project "+i);
 		}
-
+       System.out.println("Finish loop");
 	}
 
 }
